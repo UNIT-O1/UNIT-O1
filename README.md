@@ -1,69 +1,70 @@
 <div align="center">
 
-# Dhruv Vaghela
+# █ DHRUV VAGHELA █
+**MATHEMATICS & COMPUTING ✦ QUANTUM TECHNOLOGIES ✦ FORMAL SYSTEMS**
 
-B.Tech, Mathematics & Computing · Minor, Quantum Technologies
-National Institute of Technology, Warangal
-
-Turning stochastic chaos into deterministic logic.
-
-[LinkedIn](https://www.linkedin.com/in/dhruv-vaghela-33892b304/) · [Email](mailto:dhruvccpd@gmail.com) · [GitHub](https://github.com/UNIT-O1)
+[ LinkedIn ](https://www.linkedin.com/in/dhruv-vaghela-33892b304/) ✦ [ Transmission ](mailto:dhruvvaghela2023@gmail.com) ✦ [ Source ](https://github.com/UNIT-O1)
 
 </div>
 
 <br>
 
-## About
+> **THE DIRECTIVE**
+> Engineering undergraduate at NIT Warangal operating at the intersection of deep mathematics and system-level engineering. I do not build tools that simply "work"—I build tools where correctness is a mathematical guarantee. Currently architecting Verified Agentic AI and Post-Quantum Cryptography ecosystems.
 
-I work at the intersection of formal verification, quantum-safe systems, and applied control theory — building things where correctness is proven, not assumed. Currently an AI Resident at IIM-A Ventures, exploring venture-scale applications of satellite analytics and AI.
+---
 
-<br>
+### ▰ THE RESIDENCY & ACADEMICS
 
-## Experience
+*   **AI Resident | IIM Ahmedabad (IIM-A Ventures)** *(May–Jun 2026)*
+    Selected as 1 of 43 residents from 11,000+ applicants (Top 0.4%) for an elite 5-week residency backed by OpenAI and IIM-A. Architected and validated *HalfRay*, an InSAR-based satellite analytics platform, ultimately securing access to $25,000 in cloud/API capital and pitching directly to investors.
+*   **B.Tech in Mathematics & Computing | NIT Warangal** *(2024–2028)*
+    Pursuing alongside a Minor in Quantum Technologies. 
+    *Core Coursework:* Functional Analysis, Real & Complex Analysis, Fourier Series & PDEs, Probability & Statistics, and Numerical Methods.
+*   **Research Fellowship | IASC-INSA-NASI** *(2026)*
+    Awarded the highly selective fellowship under Prof. C. Pavan Kumar.
+*   **Campus Ambassador | GUESSS India** *(Nov–Dec 2025)*
+    Extracted first-hand insights into student entrepreneurial thinking across campus for the International Study on Student Entrepreneurship.
 
-**AI Resident** — IIM-A Ventures & Krishnamurthy Tandon School of AI · *May–Jun 2026*
-Selected as 1 of 43 residents from 11,000+ applicants (top 0.4%) for a 5-week residency backed by OpenAI and IIM-A. Framed and validated *HalfRay*, an InSAR-based satellite analytics platform for ground-deformation monitoring — running market landscaping, stakeholder interviews, and competitive analysis to shape the venture hypothesis, securing \$25,000 in API/cloud credits, and pitching to investors and founders.
+---
 
-**Campus Ambassador** — GUESSS India · *Nov–Dec 2025*
-Represented the University of St. Gallen & Bern's global student entrepreneurship study on campus, gathering first-hand insight into student entrepreneurial thinking and career decisions.
+### ▰ ARCHITECTURE & ENGINEERING (PROJECTS)
 
-<br>
+**[ TRUSTLOOP ] — FORMAL VERIFICATION PIPELINE**
+*From Assumption to Assurance.* A multi-layer execution pipeline for AI-generated code. Deployed Z3 SMT Solvers and Property-Based Testing (Hypothesis) to detect edge cases and mathematically prove logical correctness across infinite input spaces.
 
-## Projects
+**[ L5 TORQUE VECTORING ] — ASMC YAW CONTROL**
+*National Winner & 2nd Runner-up (Bajaj OHM — 700+ Teams).* Eliminated the mechanical differential via a software-driven architecture. Engineered a 3-DOF vehicle dynamics model explicitly for a delta-configured EV (auto-rickshaw/tricycle) with independent rear hub motors. Deployed an EKF observer for sideslip estimation alongside ASMC + QP torque allocation for precision yaw control.
 
-**[QuMail](https://github.com/UNIT-O1)** — Post-quantum secure email client
-Desktop client integrating Kyber-512 KEM, AES-256-GCM, and simulated QKD for secure email. Encrypted key management via SQLite, Firebase-based public key distribution, and standard IMAP/SMTP workflows.
-`Python` `PyQt6` `Cryptography` `SQLite` `Firebase` `WebRTC`
+**[ QUMAIL ] — POST-QUANTUM SECURE LAYER**
+A communication framework built for the post-quantum era. Integrated Kyber-512 KEM, AES-256-GCM, and simulated Quantum Key Distribution (QKD) for absolute data integrity. Secured with SQLite key management, Firebase distribution, and standard IMAP/SMTP via WebRTC.
 
-**[Vehicle-Level Control for L5 EV](https://github.com/UNIT-O1)** — Active torque vectoring · *National Winner, Bajaj OHM'26*
-Eliminated the mechanical differential with a software-driven approach: a 3-DOF vehicle dynamics model for a delta-configured EV, an EKF observer for sideslip and friction estimation, and ASMC + QP torque allocation for constrained yaw control. Validated across real-world scenarios in MATLAB and 3D simulation.
+**[ XNAV ] — PULSAR-BASED NAVIGATION**
+An autonomous deep-space positioning system. Built an Extended Kalman Filter (EKF) to estimate spacecraft coordinates strictly using X-ray pulsar timing, completely eliminating reliance on Earth-bound GPS.
 
-**[DishRight](https://github.com/UNIT-O1)** — AI-powered culinary concept
-End-to-end interactive mobile app prototype with dynamic recipe auto-scaling, community recipe sharing, and constraint-based meal discovery (time, cuisine, diet).
-`Figma` `Wireframing` `User Flow Design`
+**[ DISHRIGHT ] — MINIMALIST AI UI/UX**
+Designed an end-to-end interactive mobile app ecosystem in Figma, emphasizing dynamic recipe auto-scaling and high-constraint decision-making logic (time, cuisine, diet).
 
-<br>
+---
 
-## Recognition
+### ▰ THE ARSENAL
 
-- Offered the **IASc–INSA–NASI Research Fellowship 2026**, under Prof. C. Pavan Kumar
-- Selected for the **AI Summer Residency '26** at IIM-A Ventures — 1 of 43 from 11,000+ applicants
-- **National Winners**, Bajaj OHM '26 — top team among 700+ from India's leading engineering institutes
-- **1st Place**, IGNITE-36 — NIT Warangal's internal SIH selection, 65+ teams
+| CORE SYSTEMS | MACHINE INTELLIGENCE | MATHEMATICS & VERIFICATION |
+| :--- | :--- | :--- |
+| **C++, Python, Rust, Java** | PyTorch, Scikit-Learn | Z3 SMT Solver, Hypothesis |
+| **SQL, Linux, Git** | Extended Kalman Filters (EKF) | Functional Analysis, PDEs |
+| **SQLite, WebRTC** | InSAR Analytics | Lattice-Based PQC (Kyber) |
 
-<br>
+---
 
-## Stack
+### ▰ THE LEDGER
 
-`C` `C++` `Java` `Python` `SQL`
-`Scikit-learn` `NumPy` `Pandas` `Matplotlib`
-`Git` `GitHub` `VS Code` `Jupyter`
-`Figma`
+*   **First Place (1st/65+):** IGNITE-36, NIT Warangal's internal SIH selection hackathon (Team Aquila).
+*   **National Podium:** Bajaj OHM Campus Challenge (Top 3 overall among top 30 engineering institutes).
+*   **Top 0.4% Selection:** IIM-A Ventures AI Residency.
 
 <br>
 
 <div align="center">
-
-*The goal is not to build tools that work, but to build tools that cannot fail.*
-
+<i>"If it hasn't been mathematically proven, it's just a prototype."</i>
 </div>
