@@ -1,6 +1,6 @@
 <div align="center">
 
-# █ DHRUV VAGHELA █
+#  DHRUV VAGHELA 
 **MATHEMATICS & COMPUTING ✦ QUANTUM TECHNOLOGIES ✦ FORMAL SYSTEMS**
 
 [ LinkedIn ](https://www.linkedin.com/in/dhruv-vaghela-33892b304/) ✦ [ Transmission ](mailto:dhruvvaghela2023@gmail.com) ✦ [ Source ](https://github.com/UNIT-O1)
